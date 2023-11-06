@@ -1,0 +1,42 @@
+Música favoritas do Emy
+
+
+Artista: Bruno Mars
+Música: Locked out of Heaven
+Duração: 233
+Genero: pop
+Ano: 2012
+tonalidade: C
+
+
+Artista: Pitbull
+Música: Feel This Moment (feat. Christina Aguilera)
+Duração: 229
+Genero: hip hop, pop, latin
+Ano: 2012
+tonalidade: C
+
+
+Artista: Lady Gaga
+Música: LoveGame
+Duração: 216
+Genero: pop
+Ano: 2008
+tonalidade: C
+
+
+Artista: Gesaffelstein
+Música: Lost in the Fire (feat. The Weeknd)
+Duração: 202
+Genero: Dance/Electronic
+Ano: 2019
+tonalidade: C
+
+
+Artista: Christina Perri
+Música: A Thousand Years
+Duração: 285
+Genero: pop
+Ano: 2011
+tonalidade: C
+
